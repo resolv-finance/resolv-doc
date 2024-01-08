@@ -1,0 +1,20 @@
+{
+  "id": "Technical Interview",
+  "title": "Technical Interview",
+  "description": "",
+  "source": "@site/docs/Technical Interview.md",
+  "sourceDirName": ".",
+  "slug": "/Technical Interview",
+  "permalink": "/docs/Technical Interview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Technical Interview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Single-page",
+    "permalink": "/docs/Single-page"
+  }
+}

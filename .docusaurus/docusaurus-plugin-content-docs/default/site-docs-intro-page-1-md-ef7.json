@@ -1,0 +1,24 @@
+{
+  "id": "Intro/page1",
+  "title": "Introduction to Prototype-V0: The Foundation of Resolv",
+  "description": "Revolutionizing Crypto Asset Protection",
+  "source": "@site/docs/Intro/page1.md",
+  "sourceDirName": "Intro",
+  "slug": "/Intro/page1",
+  "permalink": "/docs/Intro/page1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Intro/page1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Prototype-V0: The Foundation of Resolv",
+    "permalink": "/docs/Getting Started/getting-started"
+  },
+  "next": {
+    "title": "Single-page",
+    "permalink": "/docs/Single-page"
+  }
+}

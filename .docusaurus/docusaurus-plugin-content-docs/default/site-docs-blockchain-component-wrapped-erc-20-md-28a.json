@@ -1,0 +1,24 @@
+{
+  "id": "Blockchain-Component/WrappedERC20",
+  "title": "WrappedERC20",
+  "description": "Overview",
+  "source": "@site/docs/Blockchain-Component/WrappedERC20.md",
+  "sourceDirName": "Blockchain-Component",
+  "slug": "/Blockchain-Component/WrappedERC20",
+  "permalink": "/docs/Blockchain-Component/WrappedERC20",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Blockchain-Component/WrappedERC20.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical Architecture",
+    "permalink": "/docs/Technical Architecture"
+  },
+  "next": {
+    "title": "Deployment",
+    "permalink": "/docs/Blockchain-Component/Deployment"
+  }
+}

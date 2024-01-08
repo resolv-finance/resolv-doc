@@ -1,0 +1,20 @@
+{
+  "id": "Project Overview",
+  "title": "Project Overview",
+  "description": "Prototype-V0: The Foundation of Resolv",
+  "source": "@site/docs/Project Overview.md",
+  "sourceDirName": ".",
+  "slug": "/Project Overview",
+  "permalink": "/docs/Project Overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Project Overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Technical Architecture",
+    "permalink": "/docs/Technical Architecture"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Getting Started/getting-started",
+  "title": "Getting Started with Prototype-V0",
+  "description": "This guide is designed to help new developers at Resolv and interested investors get up and running with Prototype-V0. Here, you'll find step-by-step instructions on setting up the development environment and starting with the basics of the platform.",
+  "source": "@site/docs/Getting Started/getting-started.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/getting-started",
+  "permalink": "/docs/Getting Started/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting Started/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/docs/FAQs"
+  },
+  "next": {
+    "title": "Introduction to Prototype-V0: The Foundation of Resolv",
+    "permalink": "/docs/Intro"
+  }
+}

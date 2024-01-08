@@ -1,0 +1,133 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Project Overview",
+        "href": "/docs/Project Overview",
+        "docId": "Project Overview",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Technical Architecture",
+        "href": "/docs/Technical Architecture",
+        "docId": "Technical Architecture",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Blockchain-Component",
+        "items": [
+          {
+            "type": "link",
+            "label": "WrappedERC20",
+            "href": "/docs/Blockchain-Component/WrappedERC20",
+            "docId": "Blockchain-Component/WrappedERC20",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Deployment",
+            "href": "/docs/Blockchain-Component/Deployment",
+            "docId": "Blockchain-Component/Deployment",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Test Files",
+            "href": "/docs/Blockchain-Component/Test Files",
+            "docId": "Blockchain-Component/Test Files",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Getting Started",
+        "href": "/docs/Getting Started",
+        "docId": "Getting Started",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "FAQs",
+        "href": "/docs/FAQs",
+        "docId": "FAQs",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Changelog and updates",
+        "href": "/docs/Changelog and updates",
+        "docId": "Changelog and updates",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "Blockchain-Component/Deployment": {
+      "id": "Blockchain-Component/Deployment",
+      "title": "Deployment",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Blockchain-Component/Test Files": {
+      "id": "Blockchain-Component/Test Files",
+      "title": "Test Files",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Blockchain-Component/WrappedERC20": {
+      "id": "Blockchain-Component/WrappedERC20",
+      "title": "WrappedERC20",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "Changelog and updates": {
+      "id": "Changelog and updates",
+      "title": "Changelog and updates",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "FAQs": {
+      "id": "FAQs",
+      "title": "FAQs",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Getting Started": {
+      "id": "Getting Started",
+      "title": "Getting Started",
+      "description": "This guide is designed to help new developers at Resolv and interested investors get up and running with Prototype-V0. Here, you'll find step-by-step instructions on setting up the development environment and starting with the basics of the platform.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Project Overview": {
+      "id": "Project Overview",
+      "title": "Project Overview",
+      "description": "Prototype-V0: The Foundation of Resolv",
+      "sidebar": "tutorialSidebar"
+    },
+    "Single-page": {
+      "id": "Single-page",
+      "title": "Single-page",
+      "description": ""
+    },
+    "Technical Architecture": {
+      "id": "Technical Architecture",
+      "title": "Technical Architecture",
+      "description": "Resolv is built on a robust and scalable technical architecture that seamlessly integrates blockchain technology with user-friendly interfaces. This section outlines the key components of our system and how they work together to provide a secure and efficient platform for protecting and managing crypto assets.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

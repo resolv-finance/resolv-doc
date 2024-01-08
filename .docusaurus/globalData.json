@@ -1,0 +1,72 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Project Overview",
+          "docs": [
+            {
+              "id": "Blockchain-Component/Deployment",
+              "path": "/docs/Blockchain-Component/Deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Blockchain-Component/Test Files",
+              "path": "/docs/Blockchain-Component/Test Files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Blockchain-Component/WrappedERC20",
+              "path": "/docs/Blockchain-Component/WrappedERC20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Changelog and updates",
+              "path": "/docs/Changelog and updates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FAQs",
+              "path": "/docs/FAQs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started",
+              "path": "/docs/Getting Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Project Overview",
+              "path": "/docs/Project Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Single-page",
+              "path": "/docs/Single-page"
+            },
+            {
+              "id": "Technical Architecture",
+              "path": "/docs/Technical Architecture",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Project Overview",
+                "label": "Project Overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
