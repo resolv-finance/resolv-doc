@@ -1,57 +1,57 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/resolv-doc/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/resolv-doc/docs",
           "mainDocId": "Project Overview",
           "docs": [
             {
               "id": "Blockchain-Component/Deployment",
-              "path": "/docs/Blockchain-Component/Deployment",
+              "path": "/resolv-doc/docs/Blockchain-Component/Deployment",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Blockchain-Component/Test Files",
-              "path": "/docs/Blockchain-Component/Test Files",
+              "path": "/resolv-doc/docs/Blockchain-Component/Test Files",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Blockchain-Component/WrappedERC20",
-              "path": "/docs/Blockchain-Component/WrappedERC20",
+              "path": "/resolv-doc/docs/Blockchain-Component/WrappedERC20",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Changelog and updates",
-              "path": "/docs/Changelog and updates",
+              "path": "/resolv-doc/docs/Changelog and updates",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "FAQs",
-              "path": "/docs/FAQs",
+              "path": "/resolv-doc/docs/FAQs",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Getting Started",
-              "path": "/docs/Getting Started",
+              "path": "/resolv-doc/docs/Getting Started",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Project Overview",
-              "path": "/docs/Project Overview",
+              "path": "/resolv-doc/docs/Project Overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Single-page",
-              "path": "/docs/Single-page"
+              "path": "/resolv-doc/docs/Single-page"
             },
             {
               "id": "Technical Architecture",
-              "path": "/docs/Technical Architecture",
+              "path": "/resolv-doc/docs/Technical Architecture",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -59,7 +59,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Project Overview",
+                "path": "/resolv-doc/docs/Project Overview",
                 "label": "Project Overview"
               }
             }

@@ -1,6 +1,6 @@
 # Technical Architecture
 
-Resolv is built on a robust and scalable technical architecture that seamlessly integrates blockchain technology with user-friendly interfaces. This section outlines the key components of our system and how they work together to provide a secure and efficient platform for protecting and managing crypto assets.
+Resolv is built on a robust and scalable technical architecture that is seamlessly compatible with any ERC20 token. This section outlines the key components of our system and how they work together to provide a secure and efficient platform for protecting and managing crypto assets.
 
 ## Overview
 
@@ -8,7 +8,7 @@ The architecture of Resolv is designed with modularity and scalability in mind. 
 
 - **Smart Contracts**: The backbone of our platform, these contracts handle the core functionalities such as asset protection, dispute resolution, and fund recovery.
 - **Frontend Application**: A user-friendly interface that allows users to interact with our smart contracts easily.
-- **Backend Services** (if applicable): Supporting services that enhance the functionality of the frontend and smart contracts, such as notification services, off-chain computations, etc.
+- **Backend Services** (if applicable): Supporting services that enhance the functionality of the frontend and smart contracts, such as notification services, Gnosis Safe, and chainlink's proof of reserve.
 
 ## Smart Contract Layer
 
@@ -40,13 +40,12 @@ The frontend of Resolv is built using [Frontend Technology Stack], providing a s
 - **Dispute Submission Process**: Steps for users to submit disputes via the frontend.
 - **Dashboard and Reporting**: Details on how users can track their assets and dispute statuses.
 
-## Backend Layer (if applicable)
+## Backend Layer 
 
 Our backend supports the frontend and blockchain layers by providing additional functionalities such as:
 
-- 
-
-## SAFE (if applicable)
+- Custodial Vault (SAFE)
+- Prood Of Reserve (Chainlink)
 
 ## Security and Compliance
 

@@ -19,10 +19,10 @@ Our vision is to create a secure and trustworthy environment for crypto asset tr
 
 ## Target Audience
 
-Resolv is designed for a diverse range of users, from individual crypto holders to large-scale businesses. Our platform is particularly beneficial for those who prioritize security and peace of mind in their crypto transactions.
+Resolv caters to the institutional crypto holder. Our platform is particularly beneficial for Exchanges, Company Treasuries, and Lending Protocols; amongst several additional use cases.
 
 ### Purpose and Significance
-In an industry where the risk of fraud and theft is a constant concern, Resolv emerges as a beacon of security and trust. Our mission is straightforward: to shield your crypto assets with an unparalleled layer of protection. Prototype-V0 represents the first step in this journey, introducing a system where security is not just a feature but the core of every transaction.
+In an industry where the risk of fraud and theft is a constant concern, Resolv emerges as the last line of defence. Our mission is straightforward: to provide zero liability fraud protection to web3 businesses. Prototype-V0 represents the first step in this journey, introducing a system where security is not just a feature but the core of every transaction.
 
 ### Simple, Accessible, and Effective
 Resolv, and by extension Prototype-V0, is designed with simplicity and ease of use in mind. It's a platform where crypto protection is demystified, offering peace of mind through a user-friendly dashboard that anyone can navigate – yes, even your grandma!

@@ -12,14 +12,14 @@
       {
         "type": "link",
         "label": "Project Overview",
-        "href": "/docs/Project Overview",
+        "href": "/resolv-doc/docs/Project Overview",
         "docId": "Project Overview",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Technical Architecture",
-        "href": "/docs/Technical Architecture",
+        "href": "/resolv-doc/docs/Technical Architecture",
         "docId": "Technical Architecture",
         "unlisted": false
       },
@@ -30,21 +30,21 @@
           {
             "type": "link",
             "label": "WrappedERC20",
-            "href": "/docs/Blockchain-Component/WrappedERC20",
+            "href": "/resolv-doc/docs/Blockchain-Component/WrappedERC20",
             "docId": "Blockchain-Component/WrappedERC20",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Deployment",
-            "href": "/docs/Blockchain-Component/Deployment",
+            "href": "/resolv-doc/docs/Blockchain-Component/Deployment",
             "docId": "Blockchain-Component/Deployment",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Test Files",
-            "href": "/docs/Blockchain-Component/Test Files",
+            "href": "/resolv-doc/docs/Blockchain-Component/Test Files",
             "docId": "Blockchain-Component/Test Files",
             "unlisted": false
           }
@@ -55,21 +55,21 @@
       {
         "type": "link",
         "label": "Getting Started",
-        "href": "/docs/Getting Started",
+        "href": "/resolv-doc/docs/Getting Started",
         "docId": "Getting Started",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "FAQs",
-        "href": "/docs/FAQs",
+        "href": "/resolv-doc/docs/FAQs",
         "docId": "FAQs",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Changelog and updates",
-        "href": "/docs/Changelog and updates",
+        "href": "/resolv-doc/docs/Changelog and updates",
         "docId": "Changelog and updates",
         "unlisted": false
       }
@@ -126,7 +126,7 @@
     "Technical Architecture": {
       "id": "Technical Architecture",
       "title": "Technical Architecture",
-      "description": "Resolv is built on a robust and scalable technical architecture that seamlessly integrates blockchain technology with user-friendly interfaces. This section outlines the key components of our system and how they work together to provide a secure and efficient platform for protecting and managing crypto assets.",
+      "description": "Resolv is built on a robust and scalable technical architecture that is seamlessly compatible with any ERC20 token. This section outlines the key components of our system and how they work together to provide a secure and efficient platform for protecting and managing crypto assets.",
       "sidebar": "tutorialSidebar"
     }
   }

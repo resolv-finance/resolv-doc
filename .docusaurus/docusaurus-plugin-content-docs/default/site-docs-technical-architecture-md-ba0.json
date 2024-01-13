@@ -1,24 +1,23 @@
 {
   "id": "Technical Architecture",
   "title": "Technical Architecture",
-  "description": "Resolv is built on a robust and scalable technical architecture that seamlessly integrates blockchain technology with user-friendly interfaces. This section outlines the key components of our system and how they work together to provide a secure and efficient platform for protecting and managing crypto assets.",
+  "description": "Resolv is built on a robust and scalable technical architecture that is seamlessly compatible with any ERC20 token. This section outlines the key components of our system and how they work together to provide a secure and efficient platform for protecting and managing crypto assets.",
   "source": "@site/docs/Technical Architecture.md",
   "sourceDirName": ".",
   "slug": "/Technical Architecture",
-  "permalink": "/docs/Technical Architecture",
+  "permalink": "/resolv-doc/docs/Technical Architecture",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Technical Architecture.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Project Overview",
-    "permalink": "/docs/Project Overview"
+    "permalink": "/resolv-doc/docs/Project Overview"
   },
   "next": {
     "title": "WrappedERC20",
-    "permalink": "/docs/Blockchain-Component/WrappedERC20"
+    "permalink": "/resolv-doc/docs/Blockchain-Component/WrappedERC20"
   }
 }

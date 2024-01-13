@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresolv_doc=self.webpackChunkresolv_doc||[]).push([[9971],{2084:e=>{e.exports=JSON.parse('{"permalink":"/resolv-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

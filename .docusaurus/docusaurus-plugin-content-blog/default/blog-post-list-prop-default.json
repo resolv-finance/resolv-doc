@@ -3,22 +3,22 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/blog/welcome",
+      "permalink": "/resolv-doc/blog/welcome",
       "unlisted": false
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/blog/mdx-blog-post",
+      "permalink": "/resolv-doc/blog/mdx-blog-post",
       "unlisted": false
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post",
+      "permalink": "/resolv-doc/blog/long-blog-post",
       "unlisted": false
     },
     {
       "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post",
+      "permalink": "/resolv-doc/blog/first-blog-post",
       "unlisted": false
     }
   ]

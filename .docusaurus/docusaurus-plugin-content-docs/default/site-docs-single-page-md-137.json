@@ -5,10 +5,9 @@
   "source": "@site/docs/Single-page.md",
   "sourceDirName": ".",
   "slug": "/Single-page",
-  "permalink": "/docs/Single-page",
+  "permalink": "/resolv-doc/docs/Single-page",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Single-page.md",
   "tags": [],
   "version": "current",
   "frontMatter": {}

@@ -5,20 +5,19 @@
   "source": "@site/docs/FAQs.md",
   "sourceDirName": ".",
   "slug": "/FAQs",
-  "permalink": "/docs/FAQs",
+  "permalink": "/resolv-doc/docs/FAQs",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/FAQs.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/docs/Getting Started"
+    "permalink": "/resolv-doc/docs/Getting Started"
   },
   "next": {
     "title": "Changelog and updates",
-    "permalink": "/docs/Changelog and updates"
+    "permalink": "/resolv-doc/docs/Changelog and updates"
   }
 }

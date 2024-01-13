@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresolv_doc=self.webpackChunkresolv_doc||[]).push([[613],{669:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/resolv-doc/blog/tags/facebook","allTagsPath":"/resolv-doc/blog/tags","count":1,"unlisted":false}')}}]);

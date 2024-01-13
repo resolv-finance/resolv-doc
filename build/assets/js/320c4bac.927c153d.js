@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresolv_doc=self.webpackChunkresolv_doc||[]).push([[323],{8385:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/resolv-doc/blog/tags/docusaurus","allTagsPath":"/resolv-doc/blog/tags","count":4,"unlisted":false}')}}]);

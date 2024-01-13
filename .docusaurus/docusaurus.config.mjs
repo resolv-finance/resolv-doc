@@ -6,11 +6,11 @@
 export default {
   "title": "Resolv Documentation",
   "tagline": "Fortifying Crypto Security",
-  "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "resolv",
-  "projectName": "Resolv Docs",
+  "favicon": "img/icons8-favicon.png",
+  "url": "https://resolv-finance.github.io",
+  "baseUrl": "/resolv-doc/",
+  "organizationName": "Resolv-Finance",
+  "projectName": "resolv-doc",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,8 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "./sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -40,7 +39,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/resolv-social-card.jpg",
     "navbar": {
       "title": "Resolv",
       "logo": {
@@ -60,7 +59,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/resolv-finance/resolv-doc",
           "label": "GitHub",
           "position": "right"
         }
@@ -84,15 +83,15 @@ export default {
           "items": [
             {
               "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "href": "https://resolv.finance/"
             },
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://resolv.finance/"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://resolv.finance/"
             }
           ]
         },
@@ -105,7 +104,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/resolv-finance/resolv-doc"
             }
           ]
         }

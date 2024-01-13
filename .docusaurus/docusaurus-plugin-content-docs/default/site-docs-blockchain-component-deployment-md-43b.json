@@ -5,20 +5,19 @@
   "source": "@site/docs/Blockchain-Component/Deployment.md",
   "sourceDirName": "Blockchain-Component",
   "slug": "/Blockchain-Component/Deployment",
-  "permalink": "/docs/Blockchain-Component/Deployment",
+  "permalink": "/resolv-doc/docs/Blockchain-Component/Deployment",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Blockchain-Component/Deployment.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "WrappedERC20",
-    "permalink": "/docs/Blockchain-Component/WrappedERC20"
+    "permalink": "/resolv-doc/docs/Blockchain-Component/WrappedERC20"
   },
   "next": {
     "title": "Test Files",
-    "permalink": "/docs/Blockchain-Component/Test Files"
+    "permalink": "/resolv-doc/docs/Blockchain-Component/Test Files"
   }
 }
